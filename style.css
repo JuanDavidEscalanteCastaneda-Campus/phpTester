@@ -1,0 +1,36 @@
+html,
+body {
+  height: 100%;
+  margin: 0px;
+}
+
+body {
+  background-image: url("./resources/cyberpunk-edgerunners-lucy_5588x3143_xtrafondos.com.jpg");
+  background-size: cover;
+  backdrop-filter: blur(2px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+* {
+  color: white;
+}
+
+.boot {
+  color: black;
+}
+
+.div {
+  background-color: rgba(1, 1, 49, 0.705);
+  border-radius: 10px;
+  margin: 5px;
+  padding: 10px;
+  text-align: center;
+}
+
+.bla {
+  display: flex;
+  justify-content: center;
+}
+
